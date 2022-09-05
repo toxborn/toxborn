@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm toxborn</h1>
-<h3 align="center">A passionate frontend developer from Czechia</h3>
+<h1 align="center">Hi 👋, I'm toxborn!</h1>
+<h3 align="center">A passionate Frontend Developer and System Administrator</h3>
 
+- 🌍 I'm based in Czech
 - 🌱 I’m currently learning **Vue.Js**
 - ⚡ ArchLinux user
 
